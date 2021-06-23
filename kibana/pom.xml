@@ -16,7 +16,7 @@
 
     <properties>
         <jetty.port>9090</jetty.port>
-        <jetty.version>9.3.0.M1</jetty.version>
+        <jetty.version>9.4.41.v20210516</jetty.version>
     </properties>
     <packaging>jar</packaging>
 
